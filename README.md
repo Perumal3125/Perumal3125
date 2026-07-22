@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Wave Header Banner - Blue Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0D1117&height=200&section=header&text=Perumal%20Samy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electronics%20%26%20Communication%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0D1117&height=200&section=header&text=Perumal%20Samy&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Electronics%20and%20Communication%20Engineer&descAlignY=55&descSize=18&animation=twinkling" width="100%" alt="Perumal Samy header banner"/>
 
 <!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Perumal+Samy;Electronics+%26+Communication+Engineer;VLSI+%2B+Embedded+Systems+Enthusiast;RTL+Design+%7C+Verilog+HDL+%7C+FSM;Building+Real-World+Hardware+%2B+IoT+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Perumal+Samy;Electronics+and+Communication+Engineer;VLSI+%2B+Embedded+Systems+Enthusiast;RTL+Design+%7C+Verilog+HDL+%7C+FSM;Building+Real-World+Hardware+%2B+IoT+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -140,6 +140,8 @@ Developed multiple mini projects using STM32, ESP32, Arduino, Raspberry Pi, UART
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,python,arduino,raspberrypi,git,github,vscode" />
+&nbsp;
+<img src="https://img.shields.io/badge/Thonny-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" height="47" alt="Thonny IDE"/>
 
 <br/><br/>
 
