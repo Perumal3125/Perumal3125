@@ -141,7 +141,7 @@ Developed multiple mini projects using STM32, ESP32, Arduino, Raspberry Pi, UART
 
 <img src="https://skillicons.dev/icons?i=cpp,python,arduino,raspberrypi,git,github,vscode" />
 &nbsp;
-<img src="https://img.shields.io/badge/Thonny-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" height="47" alt="Thonny IDE"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KICA8cmVjdCB4PSIxIiB5PSIxIiB3aWR0aD0iNDYiIGhlaWdodD0iNDYiIHJ4PSIxMCIgcnk9IjEwIiBmaWxsPSIjMWExYTFhIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMSIvPgogIDx0ZXh0IHg9IjI0IiB5PSIzMyIgZm9udC1mYW1pbHk9IkhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjQiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNmZmZmZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlRoPC90ZXh0Pgo8L3N2Zz4K" height="48" width="48" alt="Thonny IDE" title="Thonny"/>
 
 <br/><br/>
 
